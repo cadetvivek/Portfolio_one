@@ -47,7 +47,7 @@ const Portfolio = () => {
           >
             Portfolio
           </p>
-          <p className="py-6">Expore my idea and thoughts here</p>
+          <p className="py-6">Explore my idea and thoughts here</p>
           <p>Working part.👇👇</p>
 
         </div>
