@@ -2,7 +2,7 @@ import React from "react";
 import Generics from "../assets/portfolio/Generics.png";
 import Reactmeal from "../assets/portfolio/Reactmeal.png";
 import expenseTracker from "../assets/portfolio/expenseTracker.png";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import gymWebsite from "../assets/portfolio/gymWebsite.png";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
@@ -27,7 +27,9 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
+      src: gymWebsite,
+      demoLink: "https://funny-stardust-a6d056.netlify.app/",
+      codeLink: "https://github.com/cadetvivek/GYM-WEBSITE/tree/master",
       
     },
     {
