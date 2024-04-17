@@ -3,7 +3,7 @@ import Generics from "../assets/portfolio/Generics.png";
 import Reactmeal from "../assets/portfolio/Reactmeal.png";
 import expenseTracker from "../assets/portfolio/expenseTracker.png";
 import gymWebsite from "../assets/portfolio/gymWebsite.png";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import Portfolio_website from "../assets/portfolio/Portfilio_website.png"
 
 const Portfolio = () => {
   const portfolios = [
@@ -33,10 +33,12 @@ const Portfolio = () => {
       
     },
     {
-      id: 6,
-      src: reactWeather,
-     
+      id: 5,
+      src: Portfolio_website,
+      demoLink: "https://vermillion-croissant-aa8666.netlify.app/",
+      codeLink: "https://github.com/cadetvivek/Portfolio_one",
     },
+    
   ];
 
   return (
