@@ -43,6 +43,10 @@ const Contact = () => {
               Let's talk
             </button>
           </form>
+          
+        </div>
+        <div className="text-center mt-8">
+          Designed and built by Vivek Kushwah 💓
         </div>
       </div>
     </div>
