@@ -19,7 +19,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-5">
+        <p className="text-xl mt-2">
           I'm Vivek, a Full Stack Web Developer good in both front-end and
           back-end technologies. With 1200+ hours of coding practice, 450+ hours
           in Data Structures and Algorithms, and 100 hours in soft skill
