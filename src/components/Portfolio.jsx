@@ -4,6 +4,7 @@ import Reactmeal from "../assets/portfolio/Reactmeal.png";
 import expenseTracker from "../assets/portfolio/expenseTracker.png";
 import gymWebsite from "../assets/portfolio/gymWebsite.png";
 import Portfolio_website from "../assets/portfolio/Portfilio_website.png"
+import Villas from "../assets/portfolio/Villas.png"
 
 const Portfolio = () => {
   const portfolios = [
@@ -37,6 +38,12 @@ const Portfolio = () => {
       src: Portfolio_website,
       demoLink: "https://vermillion-croissant-aa8666.netlify.app/",
       codeLink: "https://github.com/cadetvivek/Portfolio_one",
+    },
+    {
+      id: 6,
+      src: Villas,
+      demoLink: "https://grand-cascaron-ba93e1.netlify.app/",
+      codeLink: "https://github.com/cadetvivek/Luxury-Villas",
     },
     
   ];
