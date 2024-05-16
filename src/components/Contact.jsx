@@ -46,7 +46,7 @@ const Contact = () => {
           
         </div>
         <div className="text-center mt-8">
-          Designed and built by Vivek Kushwah 💓
+          Designed and build by Vivek Kushwah 💓
         </div>
       </div>
     </div>
