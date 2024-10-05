@@ -24,7 +24,7 @@ const About = () => {
           back-end technologies. With 1200+ hours of coding practice, 450+ hours
           in Data Structures and Algorithms, and 100 hours in soft skill
           development, I excel in crafting efficient solutions. I completed a
-          course at Sharpener in Bengaluru, Karnataka, further enhancing my
+          cours from Bengaluru, Karnataka, further enhancing my
           skills. Explore my projects to see how I turn ideas into dynamic web
           solutions.
         </p>

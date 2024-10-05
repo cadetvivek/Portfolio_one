@@ -5,6 +5,7 @@ import expenseTracker from "../assets/portfolio/expenseTracker.png";
 import gymWebsite from "../assets/portfolio/gymWebsite.png";
 import Portfolio_website from "../assets/portfolio/Portfilio_website.png"
 import Villas from "../assets/portfolio/Villas.png"
+import OurExpense from "../assets/portfolio/ourExpense.png"
 
 const Portfolio = () => {
   const portfolios = [
@@ -44,6 +45,12 @@ const Portfolio = () => {
       src: Villas,
       demoLink: "https://grand-cascaron-ba93e1.netlify.app/",
       codeLink: "https://github.com/cadetvivek/Luxury-Villas",
+    },
+    {
+      id: 7,
+      src: OurExpense,
+      demoLink: "https://github.com/cadetvivek/OurExpense",
+      codeLink: "https://github.com/cadetvivek/OurExpense",
     },
     
   ];
